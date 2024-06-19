@@ -1,5 +1,11 @@
 <template>
-    <div class="text-red-300">
+    <v-row class="text-red-300">
         Home page
-    </div>
+    </v-row>
 </template>
+
+<script setup lang="ts">
+definePageMeta ({
+    layout: 'auth'
+})
+</script>
