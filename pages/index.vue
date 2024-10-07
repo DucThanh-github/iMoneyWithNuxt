@@ -3,6 +3,7 @@
         Home page
         <v-col>Branch 1</v-col>
         <span>commit 1 branch 2</span>
+        <span>commit 2 branch 2</span>
     </v-row>
     
 </template>
