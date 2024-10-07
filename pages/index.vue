@@ -5,6 +5,7 @@
         <span>commit 1 branch 2</span>
         <span>Commit 2 branch 1</span>
         <span>Commit 3 branch 1</span>
+        <span>commit 2 branch 2</span>
     </v-row>
     
 </template>
